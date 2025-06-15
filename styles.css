@@ -1,7 +1,12 @@
 .main {
   width: 200px;
-  background-color: purple; /* rgb(128, 0, 128) */
-  border-left: 5px solid green; /* rgb(0, 128, 0) */
+  background-color: purple;            /* rgb(128, 0, 128) */
+  border-left: 5px solid green;        /* rgb(0, 128, 0) */
   padding: 10px;
-  box-sizing: content-box; /* ensures width is content-only */
+}
+
+.heading {
+  font-size: 20px;
+  color: white;
+  text-decoration: underline;
 }
