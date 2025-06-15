@@ -2,9 +2,9 @@
 /* Your CSS Code here. */
 .main{
 	width=200px;
-	background-color:purple;
+	background-color:rgb(128, 0, 128);
 	border-left-width:5px;
-	border-left:green;
+	border-left-color:rgb(0, 128, 0);
 	padding:10px;
 }
 #heading{
